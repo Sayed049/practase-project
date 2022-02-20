@@ -1,0 +1,142 @@
+.For_Flex_Content{
+    display: flex;
+    margin-bottom: 50px;
+}
+.Merge_Content{
+    width: 50%;
+}
+.develop_content{
+    width: 50%;
+}
+.rr{
+    width: 50%;
+    margin-bottom: 100px;
+}
+.aa{
+    width: 40%;
+}
+.bb{
+    width: 20%;
+}
+.tt{
+    width: 40%;
+}
+.ss{
+    width: 70%;
+}
+.develop_content img{
+    width: 80%;
+}
+.Merge_Content img{
+    width: 70%;
+    position: relative;
+    top: -160px;
+}
+#box1 img{
+    width: 35%;
+}
+#box2 img{
+    width: 35%;
+}
+#box3 img{
+    width: 35%;
+}
+.Border_Content{
+    border-left: 4px solid #FF5959;
+    border-radius: 5px;
+    padding-left: 5px;
+}
+.Anchor_Class{
+    text-decoration: none;
+    background-color: #FF5959;
+    color: white;
+    font-weight: 500;
+    padding: 15px 30px;
+    border-radius: 5px;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 100px;
+}
+h1{
+    font-size: 60px;
+}
+h2{
+    font-size: 50px;
+}
+.Color_Orange{
+    color: orange;
+}
+.center{
+    text-align: center;
+}
+#box1{
+    width: 30%;
+    margin-right: 1%;
+    padding-left: 2%;
+    padding-bottom: 2%;
+    background-color: rgb(197, 233, 233);
+    border-radius: 30px;
+}
+#box2{
+    width: 30%;
+    margin-left: 1%;
+    margin-right: 1%;
+    padding-left: 2%;
+    padding-bottom: 2%;
+    background-color: rgb(8, 247, 247);
+    border-radius: 30px;
+}
+#box3{
+    width: 30%;
+    margin-left: 1%;
+    padding-left: 2%;
+    padding-bottom: 2%;
+    background-color: rgb(147, 160, 160);
+    border-radius: 30px;
+}
+#parent{
+    position: relative;
+    margin-top: 50px;
+    margin-right: 30px;
+}
+.image2{
+    position: absolute;
+    top: -50px;
+    left: 125px;
+}
+.image1{
+    position: absolute;
+}
+#parent1{
+    position: relative;
+    margin-top: 350px;
+    margin-left: 200px;
+}
+.image22{
+    position: absolute;
+    top: -280px;
+    left: -280px;
+}
+.image11{
+    position: absolute;
+}
+#parent2{
+    position: relative;
+    margin-top: 0;
+    margin-left: 0;
+}
+.qt{
+    position: absolute;
+    top: 10px;
+    left: 15px;
+}
+.tq{
+    position: absolute;
+}
+footer{
+    background-color: black;
+    color: white;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
